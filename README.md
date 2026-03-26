@@ -1,4 +1,4 @@
-# 📊 Simple Linear Regression on TV Marketing (ML Project)
+# Simple Linear Regression on TV Marketing (ML Project)
 
 This repository contains a **Machine Learning Project** that demonstrates a complete ML pipeline using **Simple Linear Regression** on a TV marketing dataset.  
 The project predicts **Sales** based on **TV Marketing Cost**.  
@@ -34,20 +34,20 @@ The project predicts **Sales** based on **TV Marketing Cost**.
 
 ---
 
-## 📈 Results
+## Results
 - Model successfully fit the data and showed a strong positive correlation between TV Marketing and Sales.  
 - **Scaling improved convergence** but did not change predictions significantly (since it’s simple linear regression).  
 
 ---
 
-## 🔚 Conclusion
+## Conclusion
 - **This project demonstrates how TV Marketing Cost directly influences Sales.**  
 - It provides a hands-on example of a complete ML pipeline: from data ingestion → preprocessing → model building → evaluation.  
 - A higher TV marketing budget generally results in increased sales.  
 
 ---
 
-## ⚙️ Requirements
+## Requirements
 Install the required libraries using:
 
 ```bash
