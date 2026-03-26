@@ -5,7 +5,7 @@ The project predicts **Sales** based on **TV Marketing Cost**.
 
 ---
 
-## 🔹 Project Workflow
+## Project Workflow
 1. **Data Ingestion**  
    - Imported dataset (`tvmarketing.csv`)  
    - Inspected with `.head()`, `.tail()`, `.sample()`, `.describe()`, `.isna()`  
